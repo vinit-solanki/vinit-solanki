@@ -1,15 +1,18 @@
 <p align="center">
-  # 👋 Hi, I’m **Vinit Solanki**  
+  <b>👋 Hi, I’m **Vinit Solanki</b>  
   <br>
-  **B.E. Artificial Intelligence & Data Science | Full-stack · Data Science · AI**
+  <b> B.E. Artificial Intelligence & Data Science | Full-stack · Data Science · AI </b>
   <br><br>
+  </hr>
   <a href="https://github.com/vinit-solanki">
     <img src="https://github-readme-stats.vercel.app/api?username=vinit-solanki&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
+  </hr>
   &nbsp;
   <a href="https://github.com/vinit-solanki">
     <img src="https://github-profile-trophy.vercel.app/?username=vinit-solanki&theme=onedark" alt="Trophies" />
   </a>
+  </hr>
   <br><br>
   <a href="https://github.com/vinit-solanki">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-solanki&layout=compact" alt="Top Languages" />
