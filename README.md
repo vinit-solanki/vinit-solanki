@@ -1,6 +1,8 @@
 # 👋 Hi, I’m **Vinit Solanki**  
 **B.E. Artificial Intelligence & Data Science | Full-stack · Data Science · AI**
-
+---
+> “I measure progress not by lines of code, but by **systems built**, **problems solved**, and **impact created**.”
+---
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinit-solanki&show_icons=true&theme=radical)](https://github.com/vinit-solanki)  
 
 ---
@@ -30,7 +32,6 @@
 
 ---
 
-> “I measure progress not by lines of code, but by **systems built**, **problems solved**, and **impact created**.”
 
 ---
 
