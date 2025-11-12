@@ -3,11 +3,19 @@
   <br>
   **B.E. Artificial Intelligence & Data Science | Full-stack · Data Science · AI**
   <br><br>
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinit-solanki&show_icons=true&theme=radical)](https://github.com/vinit-solanki)  
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=vinit-solanki&theme=onedark)](https://github.com/vinit-solanki)  
+  <a href="https://github.com/vinit-solanki">
+    <img src="https://github-readme-stats.vercel.app/api?username=vinit-solanki&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vinit-solanki">
+    <img src="https://github-profile-trophy.vercel.app/?username=vinit-solanki&theme=onedark" alt="Trophies" />
+  </a>
   <br><br>
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-solanki&layout=compact)](https://github.com/vinit-solanki)
+  <a href="https://github.com/vinit-solanki">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-solanki&layout=compact" alt="Top Languages" />
+  </a>
 </p>
+
 
 ---
 
