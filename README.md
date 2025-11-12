@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Vinit Solanki  
 **B.E. Artificial Intelligence & Data Science | Full-stack + Data Science + AI**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinit-solanki&show_icons=true&theme=radical)](https://github.com/vinit-solanki)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinit-solanki&show_icons=true&theme=radical)](https://github.com/vinit-solanki)  [![Trophy](https://github-profile-trophy.vercel.app/?username=vinit-solanki&theme=onedark)](https://github.com/vinit-solanki)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-solanki&layout=compact)](https://github.com/vinit-solanki)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=vinit-solanki&theme=onedark)](https://github.com/vinit-solanki)
 
 ---
 
