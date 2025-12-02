@@ -7,10 +7,6 @@
 
 ---
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=vinit-solanki&theme=onedark)](https://github.com/vinit-solanki)  
-
----
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-solanki&layout=compact)](https://github.com/vinit-solanki)
 
 ---
