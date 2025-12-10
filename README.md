@@ -3,13 +3,6 @@
 ---
 > “I measure progress not by lines of code, but by **systems built**, **problems solved**, and **impact created**.”
 ---
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinit-solanki&show_icons=true&theme=radical)](https://github.com/vinit-solanki)  
-
----
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-solanki&layout=compact)](https://github.com/vinit-solanki)
-
----
 
 ### 🛠️ Tech Stack & Fun Badges  
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
