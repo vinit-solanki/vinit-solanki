@@ -13,9 +13,9 @@
 ## 📊 GitHub at a Glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-solanki&langs_count=5&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-solanki&langs_count=5&theme=tokyonight" height="180"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/?username=vinit-solanki&count_private=true&theme=tokyonight&show_icons=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=vinit-solanki&count_private=true&theme=tokyonight&show_icons=true" height="180"/>
 </div>
 
 ---
