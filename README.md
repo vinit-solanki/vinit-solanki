@@ -1,20 +1,17 @@
 <div align="center">
 
 # 👋 Hi, I’m **Vinit Solanki**
-
 ### 🎓 B.E. Artificial Intelligence & Data Science  | 🚀 Full-stack · Data Science · AI Engineer
-
 > *“I measure progress not by lines of code, but by **systems built**, **problems solved**, and **impact created**.”*
-
 </div>
 
 ---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-solanki&langs_count=5&theme=tokyonight" height="180"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/?username=vinit-solanki&count_private=true&theme=tokyonight&show_icons=true" height="180"/>
 </div>
----
 
 ## 🛠️ Tech Stack
 
