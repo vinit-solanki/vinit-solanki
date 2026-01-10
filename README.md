@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-18-cyan?logo=react&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-20-green?logo=node-dot-js&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </div>
 
 ### 🗄️ Databases & Backend
