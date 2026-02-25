@@ -9,31 +9,18 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Development
 <div>
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-18-cyan?logo=react&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-20-green?logo=node-dot-js&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</div>
-
-### 🗄️ Databases & Backend
-<div>
   <img src="https://img.shields.io/badge/MongoDB-6.0-green?logo=mongodb&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-%E2%9C%93-blue?logo=mysql&style=for-the-badge"/>
-</div>
-
-### 🤖 Data Science & AI
-<div>
   <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Pandas-%E2%9C%93-blue?logo=pandas&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-%E2%9C%93-blue?logo=python&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Power%20BI-%E2%9C%93-yellow?logo=powerbi&style=for-the-badge"/>
-</div>
-
-### ⚙️ DevOps & Tools
-<div>
   <img src="https://img.shields.io/badge/Docker-%E2%9C%93-blue?logo=docker&style=for-the-badge"/>
 </div>
 
