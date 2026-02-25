@@ -10,10 +10,10 @@
 ## 🛠️ Tech Stack
 
 <div>
-  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-18-cyan?logo=react&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-20-green?logo=node-dot-js&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-19-cyan?logo=react&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Express.js-20-green?logo=node-dot-js&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-6.0-green?logo=mongodb&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-%E2%9C%93-blue?logo=mysql&style=for-the-badge"/>
@@ -22,7 +22,12 @@
   <img src="https://img.shields.io/badge/Seaborn-%E2%9C%93-blue?logo=python&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Power%20BI-%E2%9C%93-yellow?logo=powerbi&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-%E2%9C%93-blue?logo=docker&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-%E2%9C%93-blue?logo=docker&style=for-the-badge"/>
 </div>
+
+---
+
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinit-solanki&theme=blue-green)](https://github.com/vinit-solanki/github-readme-streak-stats)
 
 ---
 
